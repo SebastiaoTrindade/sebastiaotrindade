@@ -25,6 +25,7 @@
   <img align="center" alt="Thallyta-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="Thallyta-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Thallyta-Java" height="50" width="50" src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" />
   
   ### 🌎 Onde me encontrar
   
