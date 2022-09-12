@@ -1,9 +1,9 @@
 ## Olá, Eu sou Sebastião Trindade!
 
-- 🔭 Desenvolvedor C# com foco em ASP NET Core ...
--
-- 🌱 Estudando ASP NET Core Web API / Entity Framework Core  ...- 
-- 📫 Contato email: sebadevsystem@gmail.com ...
+- 🔭 Desenvolvedor C# com foco em ASP NET Core.
+- ❤  Sou apaixonado por música, tecnologia, livros e vôlei.
+- 🌱 Estudando ASP NET Core MVC / ASP NET Core Web API / Entity Framework Core. 
+- 📫 Contato email: sebadevsystem@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Contato: (22)99849-2303
 
