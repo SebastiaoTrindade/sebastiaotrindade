@@ -1,6 +1,6 @@
 ## Olá, Eu sou Sebastião Trindade!
 
-- 🔭 Desenvolvedor Ruby.
+- 🔭 Desenvolvedor Ruby / Ruby on Rails.
 - ❤  Sou apaixonado por música, tecnologia, livros e vôlei.
 - 🌱 Estudando Ruby / Ruby on Rails. 
 - 📫 Contato email: sebadevsystem@gmail.com
